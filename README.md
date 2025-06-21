@@ -1,4 +1,17 @@
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
+
+#COMPANY:CODETECH IT SOLUTIONS
+
+#NAME:SHARMILA PREETHI KENGUVA
+
+#INTERN ID:CT04DF86
+
+#DOMAIN:PYTHON PROGRAMMING
+
+#DURATION:4 WEEKS
+
+#MENTOR:NEEELA SANTOSH
+
 # 📧 Spam Email Detection using Scikit-learn
 
 This project is a demonstration of building a **spam detection model** using Python and machine learning with the help of **Scikit-learn**. The goal is to classify messages as either **spam** or **ham** (non-spam). We generate a synthetic dataset with 30,000 messages and train a model using the **Naive Bayes algorithm**.
